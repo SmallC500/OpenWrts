@@ -24,3 +24,6 @@ git clone --depth 1 -b main https://github.com/sirpdboy/luci-app-ddns-go.git pac
 
 #vsftpd
 git clone --depth 1 https://github.com/animefansxj/luci-app-vsftpd.git package/luci-app-vsftpd
+
+#Nat6Helper
+git clone --depth 1 https://github.com/Ausaci/luci-app-nat6-helper.git package/luci-app-nat6-helper
