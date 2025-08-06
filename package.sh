@@ -11,7 +11,16 @@ git clone --depth 1 https://github.com/thinktip/luci-theme-neobird.git package/o
 git clone --depth 1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/otherapp/mentohust
 
 # UnblockNeteaseMusic
-git clone --depth 1 -b master  https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/unblockneteasemusic
+git clone --depth 1 -b master https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/unblockneteasemusic
 
 # OpenClash
 git clone --depth 1 https://github.com/vernesong/OpenClash.git package/luci-app-openclash
+
+# NginxProxy
+git clone --depth 1 -b main https://github.com/vison-v/luci-app-nginx-proxy.git package/luci-app-nginx-proxy
+
+# DDNS-go
+git clone --depth 1 -b main https://github.com/sirpdboy/luci-app-ddns-go.git package/luci-app-ddns-go
+
+#vsftpd
+git clone --depth 1 https://github.com/animefansxj/luci-app-vsftpd.git package/luci-app-vsftpd
